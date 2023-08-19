@@ -6,4 +6,4 @@ This repository contains the collection of all the projects I did as a part of [
 
 | Project Name | Technologies | Rating |
 | :--- | :--- | :----: |
-| Odin's Recipes | HTML | N\A |
+| [Odin's Recipes](./Fundamentals/odin's-recipes/) | HTML | N\A |
